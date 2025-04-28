@@ -1,0 +1,1 @@
+This is a full-stack web application designed to streamline the management of wedding RSVPs using Typescript and React.js. It allows users to efficiently add, update, and view guest information. The app provides a comprehensive guest list view and ensures data persistence, enabling multi-tab access and updates across sessions.
